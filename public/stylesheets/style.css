@@ -11,7 +11,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar {
-  background-color: #ad1d28;
+  --background-color: #ad1d28;
+  background-color: #fff;
   border-color: #911821;
 }
 
